@@ -9,6 +9,6 @@ int main(void)
     {
         _putchar(source[i]);
     }
-    _putchar(10);
+
     return (0);
 }
