@@ -5,10 +5,10 @@ int main(void)
 {
     char source[] = "_putchar";
     int i;
-    for (i = 0; i < sizeof(source); i++)
+    for (i = 0; i < (int)sizeof(source); i++)
     {
         _putchar(source[i]);
     }
-    _putchar("\n");
-    return (0)
+    _putchar(10);
+    return (0);
 }
