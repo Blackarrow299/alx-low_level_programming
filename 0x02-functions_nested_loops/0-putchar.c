@@ -3,7 +3,7 @@
 
 int main(void)
 {
-    char source[] = "_putchar";
+    char source[] = "_putchar/n";
     int i;
     for (i = 0; i < (int)sizeof(source); i++)
     {
