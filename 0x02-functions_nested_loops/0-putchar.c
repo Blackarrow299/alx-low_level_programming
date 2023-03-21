@@ -3,12 +3,12 @@
 
 int main(void)
 {
-    char source[] = "_putchar/n";
+    char source[] = "_putchar";
     int i;
     for (i = 0; i < (int)sizeof(source); i++)
     {
         _putchar(source[i]);
     }
-
+    _putchar('\n');
     return (0);
 }
