@@ -1,7 +1,10 @@
 {
     "C_Cpp.errorSquiggles": "disabled",
     "editor.formatOnSave": false,
+    "editor.tabSize": 8,
+    
+    "editor.autoIndent": "advanced",
     "files.associations": {
-        "stdio.h": "c"
+        "stdio.h": "c",
     }
 }
