@@ -1,9 +1,9 @@
 {
     "C_Cpp.errorSquiggles": "disabled",
     "editor.formatOnSave": false,
- 
-    
-
+    "editor.insertSpaces": false,
+    "files.trimTrailingWhitespace": true,
+   "editor.insertFinalNewline": true,
     "files.associations": {
         "stdio.h": "c",
     }
