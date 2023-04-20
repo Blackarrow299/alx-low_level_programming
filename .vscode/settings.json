@@ -6,5 +6,6 @@
    "editor.insertFinalNewline": true,
     "files.associations": {
         "stdio.h": "c",
+        "dog.h": "c"
     }
 }
