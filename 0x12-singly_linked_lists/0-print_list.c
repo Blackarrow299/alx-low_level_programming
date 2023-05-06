@@ -17,7 +17,6 @@ size_t print_list(const list_t *h) {
     current = current->next;
   } 
 
-  printf("-> %i elements\n", n);
   return n;
 }
 
